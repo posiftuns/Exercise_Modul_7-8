@@ -1,0 +1,5 @@
+Nama: Bagus
+Umur: 20
+Kota: Boyolali
+Angkatan: 21
+Hobi: Makan
